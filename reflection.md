@@ -9,7 +9,7 @@ I also learned how APIs are used to fetch and display dynamic content, how routi
 Overall, this assignment helped improve my understanding of full-stack web development and gave me more confidence working with modern web technologies.
 
 GitHub Repository:
-PASTE_YOUR_GITHUB_LINK
+(https://github.com/FrogHornLeghorn/imy210-a3)
 
 Docker Commands:
 
